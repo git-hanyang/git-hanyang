@@ -9,7 +9,7 @@ It requires some great dedication and courage to do that, and believing is all I
 I find myself to have greater passion in this field as it requires constant learning and building new stuff. I like to work around creativity <br>
 because it is fun, and it surely feels great to make new things happening!:kissing: <br>
 
-🌱 I’m currently learning react redux, transcript and some php.  <br>
+🌱 I’m currently learning react redux, typescript and some php.  <br>
 
 I have great dedication, motivation and opportunity is all I need :heartpulse: <br> 
 Feel free to reach me via WhatsApp 016-6407273 or [linkedin](https://www.linkedin.com/in/han-yang-2a2879256/) <br>
