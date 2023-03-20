@@ -21,11 +21,11 @@ Feel free to reach me via WhatsApp 016-6407273 or [linkedin](https://www.linkedi
 * Boostrap
 
 ### Things I worked with
-*React
-*MongoDB
-*PostgreSQL
-*NodeJS
-*ExpressJS
+* React
+* MongoDB
+* PostgreSQL
+* NodeJS
+* ExpressJS
 
 <!--
 **git-hanyang/git-hanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
