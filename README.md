@@ -15,10 +15,10 @@ I have great dedication, motivation, but opportunity is all I need :heartpulse: 
 Feel free to reach me via WhatsApp 016-6407273 or [linkedin](https://www.linkedin.com/in/han-yang-2a2879256/) <br>
 
 ### Languages I used
-*Javascript
-*Html5
-*CSS
-*Boostrap
+* Javascript
+* Html5
+* CSS
+* Boostrap
 
 ### Things I worked with
 *React
