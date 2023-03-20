@@ -1,9 +1,9 @@
 ### Hi there 👋<br>
 
-##Welcome to my profile! <br>
+## Welcome to my profile! <br>
 My name is Han Yang, I'm currently looking for my first working experience as a junior web developer.:sunglasses: <br>
 
-###About me <br>
+### About me <br>
 I was an accountant/auditor for 4.5 years until April 2022, I then decided to have a career switch into software developer. <br>
 It requires some great dedication and courage to do that, and believing is all I got. The main reason for this career switch is that  <br>
 I find myself to have greater passion in this field as it requires constant learning and building new stuff. I like to work around creativity <br>
