@@ -1,6 +1,6 @@
-### Hi there 👋<br>
+## Hi there 👋<br>
 
-## Welcome to my profile! <br>
+### Welcome to my profile! <br>
 My name is Han Yang, I'm currently looking for my first working experience as a junior web developer.:sunglasses: <br>
 
 ### About me <br>
