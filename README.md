@@ -11,7 +11,7 @@ because it is fun, and it surely feels great to make new things happening!:kissi
 
 🌱 I’m currently learning react redux, typescript and some php.  <br>
 
-I have great dedication, motivation and opportunity is all I need :heartpulse: <br> 
+I have great dedication, motivation, but opportunity is all I need :heartpulse: <br> 
 Feel free to reach me via WhatsApp 016-6407273 or [linkedin](https://www.linkedin.com/in/han-yang-2a2879256/) <br>
 
 
