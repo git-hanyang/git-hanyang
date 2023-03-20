@@ -14,6 +14,18 @@ because it is fun, and it surely feels great to make new things happening!:kissi
 I have great dedication, motivation, but opportunity is all I need :heartpulse: <br> 
 Feel free to reach me via WhatsApp 016-6407273 or [linkedin](https://www.linkedin.com/in/han-yang-2a2879256/) <br>
 
+### Languages I used
+*Javascript
+*Html5
+*CSS
+*Boostrap
+
+### Things I worked with
+*React
+*MongoDB
+*PostgreSQL
+*NodeJS
+*ExpressJS
 
 <!--
 **git-hanyang/git-hanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
